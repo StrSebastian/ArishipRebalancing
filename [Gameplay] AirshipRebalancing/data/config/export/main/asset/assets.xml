@@ -190,7 +190,20 @@
   <ImyaExpose Path="self::LoadingSpeedFactor" ModOpID="LoadingSpeedFactorHeliumShips" ExposeID="LSF of all Helium-AirShips" Description="LSF of all Helium-AirShips=Loading Speed Factor of all Helium Airships in BaseGame: 1=normal, 2 is double speed, 5 is mod default" Kind="Slider">
     <SliderDefinition Min="1" Max="20" Stepping="1" />
   </ImyaExpose>
+  <!--<Name>zephyr erdgas 1737</Name>-->
+  <!--<Name>pegasus erdgas 1736</Name>-->
+  <!-- <Name>hermes erdgas 1735</Name>-->
+  <!--<Name>manticore 1734 erdgas </Name>-->
+  <!--<Name>manticore gun 1732 erdgas</Name>-->
+  <!--<Name>Herpyie 1733 erdgas </Name>-->
+  <!--<Name>Herpyie gun 1731 erdgas </Name>-->
+  <ModOp Type="replace" GUID="1737,1736,1735,1734,1732,1733,1731" Path="/Values/TradeRouteVehicle/LoadingSpeedFactor" ModOpID="LoadingSpeedFactorGasShips" Skip="1">
+    <LoadingSpeedFactor>2.5</LoadingSpeedFactor>
+  </ModOp>
 
+  <ImyaExpose Path="self::LoadingSpeedFactor" ModOpID="LoadingSpeedFactorGasShips" ExposeID="LSF of all Gas-AirShips" Description="LSF of all Gas-AirShips=Loading Speed Factor of all Gas Airships in BaseGame: 1=normal, 2 is double speed, 2.5 is mod default" Kind="Slider">
+    <SliderDefinition Min="1" Max="20" Stepping="1" />
+  </ImyaExpose>
 
 
 
