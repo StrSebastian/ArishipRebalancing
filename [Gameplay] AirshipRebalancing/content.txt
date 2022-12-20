@@ -1,30 +1,34 @@
-This mod is Rebalancing the Airships for me. Especially the Helium Airships.
-The loading speed of the helium Airships is tweaked to double the speed(5x) of the natural gas Airships(2.5x).
-GU16_tested 
-
-This mod is Rebalancing the Airships for me. Especially the Helium Airships.
+This mod is Rebalancing the Airships for me. Especially the Helium Airships. (in my Opinion the Helium Airships should be better then the gas ones)
 The loading speed of the helium Airships is tweaked to double the speed(5x) of the natural gas Airships(2.5x).
 (Vanilla is 1.0x load speed)
+-I made some small ajustments to the cargo slots. Now they make more sens to me.
+
 For my savegame it takes *25 Seconds to load a Helium Airship with 400t
 and *48 seconds to load a Natural Gas Airship with 400t on 3x Game speed. *round about
 I also use an 100t per slot mod to reduce the amout of ships on my savegame.
 
+GU16_tested 
+
     Changes:
-    Herpyie natural gas: 2x cargo + 2x item +2.5x loading speed
-    Herpyie      helium: 2x cargo + 2x item +5x loading speed
-    Herpyie natural gas armed: 1x cargo + 2x item +1x loading speed
-    Herpyie      helium armed: 1x cargo + 2x item +2x loading speed
+    Herpyie natural gas: 	2x cargo + 2x item +2.5x loading speed
+    Kolibri (Herpyie) helium:	2x cargo + 2x item +5x 	 loading speed
 
-    manticore natural gas: 3x cargo + 2x item +2.5x loading speed
-    manticore      helium: 3x cargo + 2x item +5x loading speed
-    manticore natural gas armed: 2x cargo + 2x item +1x loading speed
-    manticore      helium armed: 2x cargo + 2x item +2x loading speed
+    Herpyie natural gas armed:	   1x cargo + 2x item +1x loading speed
+    Kolibri (Herpyie)helium armed: 1x cargo + 2x item +2x loading speed
 
-    hermes natural gas: 4x cargo + 3x item +2.5x loading speed
-    hermes      helium: 4x cargo + 3x item +5x loading speed
+    Manticore natural gas:	 3x cargo + 2x item +2.5x loading speed
+    Allicanto (Manticore) helium: 3x cargo + 2x item +5x loading  speed
 
-    pegasus natural gas: 6x cargo + 3x item +2.5x loading speed
-    pegasus      helium: 6x cargo + 3x item +5x loading speed
+    Manticore natural gas armed:	2x cargo + 2x item +1x loading speed
+    Allicanto (Manticore) helium armed: 2x cargo + 2x item +2x loading speed
 
-    zephyr natural gas: 8x cargo + 4x item +2.5x loading speed
-    zephyr      helium: 8x cargo + 4x item +5x loading speed
+    Hermes natural gas:	      4x cargo + 3x item +2.5x loading speed
+    Atotolin (Hermes) helium: 4x cargo + 3x item +5x loading   speed
+
+    Pegasus natural gas:          6x cargo + 3x item +2.5x loading speed
+    Dtundtuncan (Pegasus) helium: 6x cargo + 3x item +5x loading   speed
+
+    Zephyr natural gas: 	  8x cargo + 4x item +2.5x loading speed
+    Quetzalcoatl (Zephyr) helium: 8x cargo + 4x item +5x loading   speed
+
+I am Working on an iModYourAnno Slider ajustment.
