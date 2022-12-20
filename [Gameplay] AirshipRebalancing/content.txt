@@ -10,25 +10,25 @@ I also use an 100t per slot mod to reduce the amout of ships on my savegame.
 GU16_tested 
 
     Changes:
-    Herpyie natural gas: 	2x cargo + 2x item +2.5x loading speed
-    Kolibri (Herpyie) helium:	2x cargo + 2x item +5x 	 loading speed
+    Herpyie natural gas:      2x cargo + 2x item +2.5x loading speed
+    Kolibri (Herpyie) helium: 2x cargo + 2x item +5x   loading speed
 
-    Herpyie natural gas armed:	   1x cargo + 2x item +1x loading speed
-    Kolibri (Herpyie)helium armed: 1x cargo + 2x item +2x loading speed
+    Herpyie natural gas armed:      1x cargo + 2x item +1x loading speed
+    Kolibri (Herpyie) helium armed: 1x cargo + 2x item +2x loading speed
 
-    Manticore natural gas:	 3x cargo + 2x item +2.5x loading speed
-    Allicanto (Manticore) helium: 3x cargo + 2x item +5x loading  speed
+    Manticore natural gas:        3x cargo + 2x item +2.5x loading speed
+    Allicanto (Manticore) helium: 3x cargo + 2x item +5x   loading speed
 
     Manticore natural gas armed:	2x cargo + 2x item +1x loading speed
     Allicanto (Manticore) helium armed: 2x cargo + 2x item +2x loading speed
 
-    Hermes natural gas:	      4x cargo + 3x item +2.5x loading speed
-    Atotolin (Hermes) helium: 4x cargo + 3x item +5x loading   speed
+    Hermes natural gas:       4x cargo + 3x item +2.5x loading speed
+    Atotolin (Hermes) helium: 4x cargo + 3x item +5x   loading speed
 
     Pegasus natural gas:          6x cargo + 3x item +2.5x loading speed
-    Dtundtuncan (Pegasus) helium: 6x cargo + 3x item +5x loading   speed
+    Dtundtuncan (Pegasus) helium: 6x cargo + 3x item +5x   loading   speed
 
-    Zephyr natural gas: 	  8x cargo + 4x item +2.5x loading speed
-    Quetzalcoatl (Zephyr) helium: 8x cargo + 4x item +5x loading   speed
+    Zephyr natural gas:           8x cargo + 4x item +2.5x loading speed
+    Quetzalcoatl (Zephyr) helium: 8x cargo + 4x item +5x   loading   speed
 
 I am Working on an iModYourAnno Slider ajustment.

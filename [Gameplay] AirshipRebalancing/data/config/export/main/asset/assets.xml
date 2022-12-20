@@ -180,8 +180,14 @@
   <ModOp Type="replace" GUID="1054" Path="/Values/TradeRouteVehicle/LoadingSpeedFactor" ModOpID="LoadingSpeedFactorHeliumShips" Skip="1">
     <LoadingSpeedFactor>5.0</LoadingSpeedFactor>
   </ModOp>
+  
   <ImyaExpose Path="self::LoadingSpeedFactor" ModOpID="LoadingSpeedFactorHeliumShips" ExposeID="LSF of all Helium-AirShips" Description="LSF of all Helium-AirShips=Loading Speed Factor of all Helium Airships in BaseGame: 1=normal, 2 is double speed, 5 is mod default" Kind="Slider">
     <SliderDefinition Min="1" Max="20" Stepping="1" />
   </ImyaExpose>
+
+
+
+
   <Include File="./assets.imyatweak.include.xml" />
+  <!--iModYourAnno Modmanager Slider ende -->
 </ModOps>
