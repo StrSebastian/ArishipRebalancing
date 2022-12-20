@@ -15,7 +15,8 @@
   <!--<Name><Name>-</Name>Herpyie gun 1731 erdgas </Name>-->
   <!--<Name><Name>-</Name>Herpyie gun 1054 helium </Name>-->
   <!--<Name>Queen'sNew_AirshipAgileCargo_Medium_SA_Unfurbished  bores erdgas 101136</Name>-->
-  <!--<Name><Name>-</Name>Herpyie8000 gun 1731 erdgas </Name>-->
+
+  <!--<Name>Name>Herpyie8000 gun 1731 erdgas </Name>-->
   <ModOp Type="merge" GUID="1731" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>2</SocketCount>
@@ -27,7 +28,7 @@
     <!-- frachtsocket-->
     <SlotCount>1</SlotCount>
   </ModOp>
-  <!--<Name><Name>-</Name>Herpyie gun 1054 helium </Name>-->
+  <!--<Name>Herpyie Kolibri  gun 1054 helium </Name>-->
   <ModOp Type="merge" GUID="1054" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>2</SocketCount>
@@ -39,6 +40,7 @@
     <!-- frachtsocket-->
     <SlotCount>1</SlotCount>
   </ModOp>
+
   <!--<Name>manticore gun 1732 erdgas</Name>-->
   <ModOp Type="merge" GUID="1732" Path="/Values/ItemContainer">
     <!-- itemsicket-->
@@ -51,7 +53,7 @@
     <!-- frachtsocket-->
     <SlotCount>2</SlotCount>
   </ModOp>
-  <!--<Name>manticore gun 1056 helium</Name>-->
+  <!--<Name>manticore Allicanto gun 1056 helium</Name>-->
   <ModOp Type="merge" GUID="1056" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>2</SocketCount>
@@ -63,7 +65,8 @@
     <!-- frachtsocket-->
     <SlotCount>2</SlotCount>
   </ModOp>
-  <!--<Name>AirshipAgileCargo_Small_Passage(Trade)</Name>Herpyie 1733 erdgas </Name>-->
+
+  <!--<Name>Herpyie 1733 erdgas </Name>-->
   <ModOp Type="merge" GUID="1733" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>2</SocketCount>
@@ -75,7 +78,7 @@
     <!-- frachtsocket-->
     <SlotCount>2</SlotCount>
   </ModOp>
-  <!--<Name>AirshipAgileCargo_Small_SA(Trade)</Name> Herpyie 1654 helium </Name>-->
+  <!--<Name>Herpyie Kolibri 1654 helium </Name>-->
   <ModOp Type="merge" GUID="1654" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>2</SocketCount>
@@ -87,7 +90,8 @@
     <!-- frachtsocket-->
     <SlotCount>2</SlotCount>
   </ModOp>
-  <!--<Name>AirshipAgileCargo_Medium_Passage(Trade)manticore 1734 erdgas </Name>-->
+
+  <!--<Name> manticore 1734 erdgas </Name>-->
   <ModOp Type="add" GUID="1734" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>2</SocketCount>
@@ -99,7 +103,7 @@
     <!-- frachtsocket-->
     <SlotCount>3</SlotCount>
   </ModOp>
-  <!--<Name>AirshipAgileCargo_Medium_SA(Trade) manticore 1655 helium</Name>-->
+  <!--<Name>manticore Allicanto 1655 helium</Name>-->
   <ModOp Type="add" GUID="1655" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>2</SocketCount>
@@ -111,7 +115,8 @@
     <!-- frachtsocket-->
     <SlotCount>3</SlotCount>
   </ModOp>
-  <!-- <Name>AirshipCargo_Small_Passage(Trade8000)hermes erdgas 1735</Name>-->
+
+  <!-- <Name>hermes8000 erdgas 1735</Name>-->
   <ModOp Type="add" GUID="1735" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>3</SocketCount>
@@ -123,7 +128,7 @@
     <!-- frachtsocket-->
     <SlotCount>4</SlotCount>
   </ModOp>
-  <!-- <Name>AirshipCargo_Small_SA(Trade) hermes  helium 1058</Name> -->
+  <!-- <Name>hermes8000 Atotolin  helium 1058</Name> -->
   <ModOp Type="add" GUID="1058" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>3</SocketCount>
@@ -135,7 +140,8 @@
     <!-- frachtsocket !add -->
     <SlotCount>4</SlotCount>
   </ModOp>
-  <!--<Name>AirshipCargo_Large_Passage(Trade) zephyr erdgas 1737</Name>-->
+
+  <!--<Name>zephyr erdgas 1737</Name>-->
   <ModOp Type="add" GUID="1737" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>4</SocketCount>
@@ -143,7 +149,7 @@
   <ModOp Type="merge" GUID="1737" Path="/Values/TradeRouteVehicle">
     <LoadingSpeedFactor>2.5</LoadingSpeedFactor>
   </ModOp>
-  <!--<Name>AirshipCargo_Large_SA(Trade) zephyr helium 1060</Name>-->
+  <!--<Name>zephyr Quetzalcoatl helium 1060</Name>-->
   <ModOp Type="add" GUID="1060" Path="/Values/ItemContainer">
     <!-- itemsicket-->
     <SocketCount>4</SocketCount>
@@ -151,7 +157,8 @@
   <ModOp Type="merge" GUID="1060" Path="/Values/TradeRouteVehicle">
     <LoadingSpeedFactor>5.0</LoadingSpeedFactor>
   </ModOp>
-  <!--<Name>AirshipCargo_Medium_PassageTrade) pegasus erdgas 1736</Name>-->
+
+  <!--<Name>pegasus erdgas 1736</Name>-->
   <ModOp Type="merge" GUID="1736" Path="/Values/ItemContainer">
     <!-- frachtsocket-->
     <SlotCount>6</SlotCount>
@@ -159,7 +166,7 @@
   <ModOp Type="merge" GUID="1736" Path="/Values/TradeRouteVehicle">
     <LoadingSpeedFactor>2.5</LoadingSpeedFactor>
   </ModOp>
-  <!--<Name>AirshipCargo_Medium_SA(Trade) pegasus helium 1059</Name>-->
+  <!--<Name>pegasus Dtundtuncan helium 1059</Name>-->
   <ModOp Type="merge" GUID="1059" Path="/Values/ItemContainer">
     <!-- frachtsocket-->
     <SlotCount>6</SlotCount>
@@ -167,8 +174,9 @@
   <ModOp Type="merge" GUID="1059" Path="/Values/TradeRouteVehicle">
     <LoadingSpeedFactor>5.0</LoadingSpeedFactor>
   </ModOp>
+
   <!--iModYourAnno Modmanager Slider -->
-  <!--<Name><Name>-</Name>Herpyie gun 1054 helium </Name>-->
+  <!--<Name>Herpyie Kolibri gun 1054 helium</Name>-->
   <ModOp Type="replace" GUID="1054" Path="/Values/TradeRouteVehicle/LoadingSpeedFactor" ModOpID="LoadingSpeedFactorHeliumShips" Skip="1">
     <LoadingSpeedFactor>5.0</LoadingSpeedFactor>
   </ModOp>
