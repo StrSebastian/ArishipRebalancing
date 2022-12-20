@@ -176,11 +176,17 @@
   </ModOp>
 
   <!--iModYourAnno Modmanager Slider -->
+  <!--<Name>Herpyie Kolibri 1654 helium </Name>-->
   <!--<Name>Herpyie Kolibri gun 1054 helium</Name>-->
-  <ModOp Type="replace" GUID="1054" Path="/Values/TradeRouteVehicle/LoadingSpeedFactor" ModOpID="LoadingSpeedFactorHeliumShips" Skip="1">
+  <!--<Name>manticore Allicanto 1655 helium</Name>-->
+  <!--<Name>manticore Allicanto gun 1056 helium</Name>-->
+  <!--<Name>hermes8000 Atotolin  helium 1058</Name> -->
+  <!--<Name>pegasus Dtundtuncan helium 1059</Name>-->
+  <!--<Name>zephyr Quetzalcoatl helium 1060</Name>-->
+  <ModOp Type="replace" GUID="1654,1054,1655,1056,1058,1059,1060" Path="/Values/TradeRouteVehicle/LoadingSpeedFactor" ModOpID="LoadingSpeedFactorHeliumShips" Skip="1">
     <LoadingSpeedFactor>5.0</LoadingSpeedFactor>
   </ModOp>
-  
+
   <ImyaExpose Path="self::LoadingSpeedFactor" ModOpID="LoadingSpeedFactorHeliumShips" ExposeID="LSF of all Helium-AirShips" Description="LSF of all Helium-AirShips=Loading Speed Factor of all Helium Airships in BaseGame: 1=normal, 2 is double speed, 5 is mod default" Kind="Slider">
     <SliderDefinition Min="1" Max="20" Stepping="1" />
   </ImyaExpose>
